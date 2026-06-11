@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/c/Users/luisg/OneDrive/Documentos/**)",
+      "Bash(python3 -)",
+      "Read(//mnt/c/Users/**)",
+      "Read(//c/Users/luisg//**)",
+      "Bash(node -)",
+      "Bash(node -e ' *)",
+      "mcp__ide__getDiagnostics",
+      "Bash(node fix_glitch.js)",
+      "Bash(rm fix_glitch.js)",
+      "Bash(node fix_glitch2.js)",
+      "Bash(rm fix_glitch2.js)"
+    ]
+  }
+}
